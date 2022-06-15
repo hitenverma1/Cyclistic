@@ -1,4 +1,4 @@
-# Cyclistic
+# Cyclistic (Capstone Project)
 I collected 12 months cycling trips data set of this bike sharing company "Cyclistic"
 
 Cyclistic is a fictional company that Google designed for this case study,
